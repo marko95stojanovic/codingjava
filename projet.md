@@ -52,8 +52,8 @@ Le TOP10 devra être enregistrer dans un fichier afin de conserver les scores de
 
 ## Menu
 Avant chaque partie, un menu s'affichera avec plusieurs choix possible comme:
-- Jouer tout seul
-- Jouer à 2 (voir paragraphe suivant)
+- Jouer tout seul (voir paragraphe suivant)
+- Jouer à 2 
 - Afficher le TOP 10
 - Quitter
 
@@ -112,7 +112,11 @@ Les groupes sont les suivants:
 - Julien, Zineb, ALEXANDRE
 - Lucas, Mathéo, Raphael
 - Jordan, Jean, Fabien
-- THEO , Sylvian , Bastien B, Florian
+- Sylvian, Théo, Bastien B, Florian
+- Coralie, Diego, MArco, Hamza
+- Mathis, Mathis, Célian, Noa
+- Matteo, Khaled, Valdo, Eduardo
+- Noé, Jeff, Quentin, Ben-Youcef
 
 
 
