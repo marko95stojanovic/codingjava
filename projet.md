@@ -113,7 +113,7 @@ Les groupes sont les suivants:
 - Lucas, Mathéo, Raphael
 - Jordan, Jean, Fabien
 - Sylvian, Théo, Bastien B, Florian
-- Coralie, Diego, MArco, Hamza
+- Coralie, Diego, Marko, Hamza
 - Mathis, Mathis, Célian, Noa
 - Matteo, Khaled, Valdo, Eduardo
 - Noé, Jeff, Quentin, Ben-Youcef
